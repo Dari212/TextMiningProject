@@ -1,5 +1,4 @@
-Project: “Straining the great southern
-Melting Pot” 
+## Project: “Straining the great southern Melting Pot” 
 
 The aim of this project is to explore and analyze a dataset containing over 53000 reviews of
 restaurants in Atlanta (Georgia), scraped from Google Maps in October 2023.
